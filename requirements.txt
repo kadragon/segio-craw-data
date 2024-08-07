@@ -1,0 +1,9 @@
+certifi==2024.7.4
+charset-normalizer==3.3.2
+fake-useragent==1.5.1
+greenlet==3.0.3
+idna==3.7
+pyee==11.1.0
+requests==2.32.3
+typing_extensions==4.12.2
+urllib3==2.2.2
