@@ -6,4 +6,4 @@ idna==3.13
 pyee==13.0.1
 requests==2.33.1
 typing_extensions==4.15.0
-urllib3==2.6.3
+urllib3==2.7.0
